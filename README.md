@@ -34,6 +34,6 @@ If you want to use the **Liquid Glass** effect, you need to install the **Liquid
 
 ## 🛠️ Installation
 
-1. Add my repository to your package manager (Sileo / Zebra / Cydia):
+1. Add my repository to your package manager:
    ```text
    coming soon
