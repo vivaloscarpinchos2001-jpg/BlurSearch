@@ -1,6 +1,6 @@
 # BlurSearch 🔍✨
 
-**BlurSearch**  An iOS tweak that brings the new Settings search bar from iOS 16 to older iOS versions; it currently supports iOS 15 and iOS 16.
+**BlurSearch** is an iOS tweak that brings the new Settings search bar from iOS 26 to older iOS versions; it currently supports iOS 15 and iOS 16.
 
 It uses the native iOS 16 SpringBoard dock blur effect!
 
@@ -8,9 +8,9 @@ It uses the native iOS 16 SpringBoard dock blur effect!
 
 ## 📸 Screenshots
 
-| Image 1 | Image 2 |
+| | |
 | :---: | :---: |
-| ![Screenshot 1](your_image_link_1.png) | ![Screenshot 2](your_image_link_2.png) |
+| ![Screenshot 1](assets/IMG_1866.png) | ![Screenshot 2](assets/IMG_1872.png) |
 
 ---
 
@@ -18,7 +18,13 @@ It uses the native iOS 16 SpringBoard dock blur effect!
 
 If you want to use the **Liquid Glass** effect, you need to install the **Liquid gl(ass)** tweak made by **Winaviation** and follow this guide:
 
+| Step 1 | Step 2 | Step 3 |
+| :---: | :---: | :---: |
+| ![Guide Step 1](assets/guide1.png) | ![Guide Step 2](assets/IMG_1867.png) | ![Guide Step 3](assets/IMG_1868.png) |
 
+| Step 4 | Step 5 |
+| :---: | :---: |
+| ![Guide Step 4](assets/IMG_1869.png) | ![Guide Step 5](assets/IMG_1871.png) |
 
 ---
 
